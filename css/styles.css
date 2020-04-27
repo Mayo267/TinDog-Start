@@ -150,6 +150,44 @@ body{
     padding: 3% 2%;
 }
 
+/* Call to Action Section */
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7%;
+    /* font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5; */
+    
+}
+
+.cta-text{
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white
+}
+
+.cta-button{
+    margin:2%;
+}
+
+/* Footer */
+
+#footer{
+    text-align: center;
+    padding: 5%;
+}
+
+.footer-icon{
+    padding: 1%;;
+}
+
+.copyright{
+    font-family: 'Ubuntu', sans-serif;
+    color: #8f8f8f;
+}
 
 
 /* ===================================== */
